@@ -10,7 +10,7 @@ A machine learning web application for predicting **breast cancer molecular subt
 * High-dimensional gene-expression data processing
 * Feature selection and preprocessing
 * Machine learning-based classification
-* FastAPI REST API for prediction
+* FastAPI API for prediction
 * Streamlit-based interactive user interface
 * Model deployment support with Render
 
