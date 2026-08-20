@@ -306,15 +306,6 @@ The model should be evaluated using metrics appropriate for multiclass classific
 
 For an imbalanced dataset, **macro-averaged precision, recall, and F1-score** can provide a more informative evaluation than accuracy alone.
 
-## ⚠️ Limitations
-
-This project has several limitations:
-
-1. The dataset contains a very high number of features relative to the number of samples.
-2. The target classes are imbalanced.
-3. Model performance depends heavily on preprocessing and feature selection.
-4. Predictions are based on the dataset and trained model and may not generalize to clinical data.
-5. The application has not been validated for clinical use.
 
 ## 🔮 Future Improvements
 
@@ -331,13 +322,4 @@ Possible future improvements include:
 * Improved frontend visualization
 * Containerized deployment using Docker
 
-## 👨‍💻 Author
 
-**Rupam Das**
-
-M.Sc. in Data Science and Artificial Intelligence
-Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI)
-
-## 📜 License
-
-This project is intended for educational and research purposes. Add an appropriate open-source license to the repository if you intend to distribute the code publicly.
